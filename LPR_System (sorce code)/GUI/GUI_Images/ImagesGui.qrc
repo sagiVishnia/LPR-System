@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="GUI">
+    <file>RFStable.gif</file>
+    <file>LprCOTERET.PNG</file>
+    <file>LprCOTERET.PNG</file>
+    <file>LprIm.PNG</file>
+    <file>WhiteScreen.png</file>
+  </qresource>
+</RCC>
